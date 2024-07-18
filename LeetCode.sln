@@ -5,6 +5,10 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2751-robotcollisions", "2751-RobotCollisions\2751-robotcollisions.csproj", "{B0D22CD3-D02F-407E-9347-9294988E8CAB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2096-Step-By-StepDirectionsFromaBinaryTreeNodetoAnother", "2096-Step-By-StepDirectionsFromaBinaryTreeNodetoAnother\2096-Step-By-StepDirectionsFromaBinaryTreeNodetoAnother.csproj", "{2A1B2681-5E3A-4B21-840F-411E4C213C07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1530-NumberOfGoodLeafNodesPairs", "1530-NumberOfGoodLeafNodesPairs\1530-NumberOfGoodLeafNodesPairs.csproj", "{45721922-EC99-417A-BAF1-B6AD97906B20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{B0D22CD3-D02F-407E-9347-9294988E8CAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0D22CD3-D02F-407E-9347-9294988E8CAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0D22CD3-D02F-407E-9347-9294988E8CAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A1B2681-5E3A-4B21-840F-411E4C213C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A1B2681-5E3A-4B21-840F-411E4C213C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A1B2681-5E3A-4B21-840F-411E4C213C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A1B2681-5E3A-4B21-840F-411E4C213C07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45721922-EC99-417A-BAF1-B6AD97906B20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45721922-EC99-417A-BAF1-B6AD97906B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45721922-EC99-417A-BAF1-B6AD97906B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45721922-EC99-417A-BAF1-B6AD97906B20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
