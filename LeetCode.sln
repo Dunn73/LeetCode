@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2096-Step-By-StepDirections
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1530-NumberOfGoodLeafNodesPairs", "1530-NumberOfGoodLeafNodesPairs\1530-NumberOfGoodLeafNodesPairs.csproj", "{45721922-EC99-417A-BAF1-B6AD97906B20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1110-deletenodesandreturnforest", "1110-deletenodesandreturnforest\1110-deletenodesandreturnforest.csproj", "{0FEB3FCF-6AA5-439D-8577-F9CDE850B74C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{45721922-EC99-417A-BAF1-B6AD97906B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45721922-EC99-417A-BAF1-B6AD97906B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45721922-EC99-417A-BAF1-B6AD97906B20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FEB3FCF-6AA5-439D-8577-F9CDE850B74C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FEB3FCF-6AA5-439D-8577-F9CDE850B74C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FEB3FCF-6AA5-439D-8577-F9CDE850B74C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FEB3FCF-6AA5-439D-8577-F9CDE850B74C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
