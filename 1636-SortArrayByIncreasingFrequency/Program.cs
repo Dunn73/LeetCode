@@ -10,7 +10,7 @@ Console.WriteLine("]");
 Console.ReadKey();
 public class Solution {
     public int[] FrequencySort(int[] nums) {
-        // Step 1: Count the frequencies of each number
+        // Count the frequencies of each number
         Dictionary<int, int> data = new();
         
         foreach (var item in nums) {
@@ -21,11 +21,11 @@ public class Solution {
             }
         }
 
-        // Step 2: Sort the dictionary by value (frequency) ascending, and by key descending
+        // Sort the dictionary by value (frequency) ascending, and by key descending
         var sortedData = data.OrderBy(pair => pair.Value)
                              .ThenByDescending(pair => pair.Key);
 
-        // Step 3: Construct the result array
+        // Construct the result array
         List<int> result = new List<int>();
         
         foreach (var pair in sortedData) {
