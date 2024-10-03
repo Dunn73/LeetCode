@@ -51,6 +51,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2419-LongestSubarrayWithMax
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "442-FindAllDuplicatesInAnArray", "442-FindAllDuplicatesInAnArray\442-FindAllDuplicatesInAnArray.csproj", "{33E78231-6E26-43AC-8A22-DB413D13DE6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "539-MinimumTimeDifference", "539-MinimumTimeDifference\539-MinimumTimeDifference.csproj", "{8D34DB68-57DA-4C1F-86D8-A6620FDB8AFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "884-UncommonWordsFromTwoSentences", "884-UncommonWordsFromTwoSentences\884-UncommonWordsFromTwoSentences.csproj", "{31B23072-810A-4047-99EE-83B78BDDABF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +157,14 @@ Global
 		{33E78231-6E26-43AC-8A22-DB413D13DE6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33E78231-6E26-43AC-8A22-DB413D13DE6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33E78231-6E26-43AC-8A22-DB413D13DE6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D34DB68-57DA-4C1F-86D8-A6620FDB8AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D34DB68-57DA-4C1F-86D8-A6620FDB8AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D34DB68-57DA-4C1F-86D8-A6620FDB8AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D34DB68-57DA-4C1F-86D8-A6620FDB8AFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31B23072-810A-4047-99EE-83B78BDDABF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B23072-810A-4047-99EE-83B78BDDABF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B23072-810A-4047-99EE-83B78BDDABF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B23072-810A-4047-99EE-83B78BDDABF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
